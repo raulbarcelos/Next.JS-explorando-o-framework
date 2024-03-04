@@ -14,7 +14,6 @@ function Title({ children, as }) {
                 {`
                     ${Tag}{
                         color: red;
-                        font-family: sans-serif;
                     }
                 `}
 

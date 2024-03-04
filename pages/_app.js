@@ -3,8 +3,7 @@ import GlobalStyle from "../src/theme/GlobalStyle";
 function MyApp({ Component, pageProps }) {
     return (
         <>
-        <GlobalStyle/>
-        teste de component middleware
+            <GlobalStyle />
             <Component {...pageProps} />
         </>
     )
